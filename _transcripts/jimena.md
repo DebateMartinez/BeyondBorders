@@ -1,6 +1,6 @@
 ---
 object-id: jimena
-title: Jimena
+title: jimena
 interviewer: Yaris
 date-interviewed: March 28, 2024
 location: Centennial, CO

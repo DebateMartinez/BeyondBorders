@@ -1,4 +1,4 @@
-Timestamp:,Speaker:,Dialogue:,Codes:
+,speaker,words,tags
 ,YMD,: How old are you and what do you do for work. ,
 ,INT,: I am 47 and I am a teacher at a private school in the west. ,
 ,YMD,": Yes. Ok, so tell me about your origin. Where were you born and where did you grow up?",

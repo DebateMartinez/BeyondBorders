@@ -3,7 +3,7 @@ object-id: daniel
 title: daniel
 interviewer: Yaris
 date-interviewed: May 1, 2024
-location: Littleton, CO
+location: Littleton,CO
 ---
 
-Daniel is 30 year old insurance salesman who moved from Mexico to the United States at the age of 3 
+Daniel is a 30 year old insurance salesman who moved from Mexico to the United States at the age of 3 

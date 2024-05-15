@@ -1,6 +1,6 @@
 ---
 object-id: daniel
-title: Daniel
+title: daniel
 interviewer: Yaris
 date-interviewed: May 1, 2024
 location: Littleton, CO

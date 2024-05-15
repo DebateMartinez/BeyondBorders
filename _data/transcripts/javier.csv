@@ -1,4 +1,4 @@
-Timestamp:,Speaker:,Dialogue:,Codes:
+,speaker,words,tags
 ,YMD,: Cuántos años tienes y qué haces de trabajo?,
 ,INT,: Trabajo de remodelación de casas y tengo 57 años.,
 ,YMD,": Entonces dime un poco de tus orígenes, a donde nacistes y a donde creciste.",
